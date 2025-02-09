@@ -7,7 +7,7 @@ This project explores various machine learning approaches, including exploratory
 ## Files and Structure
 
 ### Data
-- **Dataset.xlsx**: The original dataset used for training and evaluation.
+- **Dataset.xlsx**: The original dataset.
 - **data/** and **modified_data/**: The datasets used for training and evaluation.
 
 ### Exploratory Data Analysis (EDA)
